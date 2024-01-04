@@ -1,0 +1,6 @@
+
+Accuracy:	96.1974%
+Labels:	lang1	lang2
+Precision:	98.4429%	90.0455%
+Recall:	96.4406%	95.4765%
+F1:	97.4314%	92.6815%
